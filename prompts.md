@@ -28,3 +28,9 @@
 - **Asked:** Explain how to open the app on the desktop.
 - **Changed:** No app files changed; provided the terminal launch command.
 - **Worked:** Not confirmed; the user needs to run the command locally.
+
+## Launch the desktop app
+
+- **Asked:** Help run the desktop app.
+- **Changed:** No app files changed; the desktop launch remains a local action.
+- **Worked:** Not yet; desktop UI access was declined, so the user must launch it.
