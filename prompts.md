@@ -34,3 +34,10 @@
 - **Asked:** Help run the desktop app.
 - **Changed:** No app files changed; the desktop launch remains a local action.
 - **Worked:** Not yet; desktop UI access was declined, so the user must launch it.
+
+## Fix missing NumPy dependency
+
+- **Asked:** Confirm the app launch issue shown by the missing NumPy error.
+- **Changed:** Installed NumPy and Matplotlib in the project's `.venv`.
+- **Worked:** Yes. Both dependencies and Tkinter import; all 10 app tests pass
+  in that virtual environment.
