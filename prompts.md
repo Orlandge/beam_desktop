@@ -41,3 +41,10 @@
 - **Changed:** Installed NumPy and Matplotlib in the project's `.venv`.
 - **Worked:** Yes. Both dependencies and Tkinter import; all 10 app tests pass
   in that virtual environment.
+
+## Confirm submission items
+
+- **Asked:** Clarify what to submit besides the ZIP archive.
+- **Changed:** Confirmed the Learning Suite comments should include the public
+  GitHub repository URL.
+- **Worked:** Yes; checked the configured repository URL and local branch state.
