@@ -22,3 +22,9 @@
   alternatives.
 - **Worked:** Not confirmed; repository publishing still needs to be completed
   in VS Code.
+
+## Run the desktop app
+
+- **Asked:** Explain how to open the app on the desktop.
+- **Changed:** No app files changed; provided the terminal launch command.
+- **Worked:** Not confirmed; the user needs to run the command locally.
