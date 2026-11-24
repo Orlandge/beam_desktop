@@ -14,3 +14,11 @@
 - **Changed:** No remote or GitHub repository was created because VS Code
   Computer Use was declined before any UI action.
 - **Worked:** Not yet. Publish the branch from VS Code Source Control to finish.
+
+## Find the GitHub publish command
+
+- **Asked:** Help locate the missing Publish Branch command.
+- **Changed:** No app files changed; provided VS Code menu and Command Palette
+  alternatives.
+- **Worked:** Not confirmed; repository publishing still needs to be completed
+  in VS Code.
